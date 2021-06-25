@@ -1,0 +1,22 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "just another burger api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirbhay007/Burger-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirbhay007/Burger-Api/issues"
+  },
+  "homepage": "https://github.com/Nirbhay007/Burger-Api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
